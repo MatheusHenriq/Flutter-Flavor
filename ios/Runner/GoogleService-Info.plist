@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>br.com.example.flavors.br</string>
+	<string>br.com.example.flavors.dev</string>
 	<key>PROJECT_ID</key>
 	<string>flavor-prd-94c1b</string>
 	<key>STORAGE_BUCKET</key>

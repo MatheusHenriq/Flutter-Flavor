@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837798284888",
+    "project_id": "flavor-prd-94c1b",
+    "storage_bucket": "flavor-prd-94c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837798284888:android:bfed973740a4175ff0042d",
+        "android_client_info": {
+          "package_name": "br.com.example.flavors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC74_KaC9OJp3aJc-MDzCRNx0P9cCyiTiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

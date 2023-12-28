@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBW4lK9kZuQPWCVrz1g3hP1zAEL7Bpk1u4',
-    appId: '1:932848384097:android:8c4125129596ad11621220',
+    appId: '1:932848384097:android:9295b53122be060b621220',
     messagingSenderId: '932848384097',
     projectId: 'flavor-dev-2a89b',
     storageBucket: 'flavor-dev-2a89b.appspot.com',
@@ -59,10 +59,10 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDr56ttzDqbSqnAKAwt_MmxN7368EbebQI',
-    appId: '1:932848384097:ios:2e7dcda64b05d44d621220',
+    appId: '1:932848384097:ios:ea1314f785dbc5c8621220',
     messagingSenderId: '932848384097',
     projectId: 'flavor-dev-2a89b',
     storageBucket: 'flavor-dev-2a89b.appspot.com',
-    iosBundleId: 'br.com.example.flavors.br',
+    iosBundleId: 'br.com.example.flavors.dev',
   );
 }
