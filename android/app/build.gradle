@@ -39,11 +39,11 @@ android {
     flavorDimensions "env"
 
     productFlavors {
-        prod {
+        prd {
                 dimension "env"
                 resValue "string", "app_name", "Flavor PRD"
             }
-            dev {
+        dev {
                 dimension "env"
                 resValue "string", "app_name", "Flavor DEV"
                 applicationIdSuffix ".dev"
